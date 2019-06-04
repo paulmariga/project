@@ -1,0 +1,14 @@
+li{
+	border: 2px solid red;
+}
+#pili{
+	color: blue;
+}
+#kwanza{
+	text-decoration-style: line-through;
+	color: green;
+}
+.sese{
+	background: red;
+	font-family: verdana;
+}
